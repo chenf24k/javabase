@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods" thread-count="10" verbose="1" data-provider-thread-count="10">
+    <test name="parallelTest1">
+        <classes>
+            <class name="frame.testng.TestParallel1"/>
+            <class name="frame.testng.TestParallel2"/>
+        </classes>
+    </test>
+    <test name="parallelTest2">
+        <classes>
+            <class name="frame.testng.TestParallel3"/>
+        </classes>
+    </test>
+    <!-- <listeners>
+         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+         <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+     </listeners>-->
+</suite> <!-- Suite -->
