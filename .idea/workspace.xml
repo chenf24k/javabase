@@ -2,12 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fcd4715-424e-4418-bf72-0d79a3016566" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/TestCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/primer/thread_t/thread_lifecycle/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/primer/xiaobing/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdk/tttt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/chenfeng/Call/Call.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/Call.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/Call/Call.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/Call/Race.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primer/preporties_t/TestProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/TestScanner/TestScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/TestScanner/TestScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/annotation/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/annotation/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/annotation/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/annotation/MyAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/dynamiccompile/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/dynamiccompile/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/enumtest/ErrorCodeEn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/enumtest/ErrorCodeEn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/if_else.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/if_else.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/switch_case.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/switch_case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/testfor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/testfor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/testif.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/ifelsefor/testif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/reflection/Demo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/reflection/Demo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/reflection/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/reflection/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/scriptenginemanager/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/scriptenginemanager/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/testmethod/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/testmethod/TestMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/teststatic/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/teststatic/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/chenfeng/testthis/TestThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/chenfeng/testthis/TestThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frame/luckyframe/SysConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frame/luckyframe/SysConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frame/luckyframe/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frame/luckyframe/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frame/testng/TestParallel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frame/testng/TestParallel1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frame/testng/TestParallel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frame/testng/TestParallel2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/String_t/MyCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/String_t/MyCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/arrays/TestArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/arrays/TestArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/arrays/TestArraysInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/arrays/TestArraysInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/casting_t/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/casting_t/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/casting_t/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/casting_t/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/casting_t/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/casting_t/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/collection_t/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/collection_t/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/collection_t/MyMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/collection_t/MyMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/collection_t/TestMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/collection_t/TestMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/date_t/TestSimpleFormate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/date_t/TestSimpleFormate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/encapsulation_t/Person4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/encapsulation_t/Person4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/encapsulation_t/TestEncapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/encapsulation_t/TestEncapsulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/enum_t/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/enum_t/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/extends_t/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/extends_t/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/extends_t/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/extends_t/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/extends_t/TestExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/extends_t/TestExtends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/file_t/TestFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/file_t/TestFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/final_t/Animal2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/final_t/Animal2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/final_t/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/final_t/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/final_t/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/final_t/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/jxl/TestJxl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/jxl/TestJxl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/jxl/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/jxl/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/ChildClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/ChildClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/FatherClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/FatherClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/Student2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/Student2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/TestEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/TestEquals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/TestObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/TestObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/object_t/TestSuper2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/object_t/TestSuper2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/override_t/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/override_t/Horse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/override_t/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/override_t/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/poi_t/PoiExcelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/poi_t/PoiExcelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/poi_t/PoiExcelTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/poi_t/PoiExcelTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/polymorphic_t/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/preporties_t/TestProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/runtime_t/TestRunTIme.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/runtime_t/TestRunTIme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/static_t/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/static_t/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/static_t/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/static_t/User2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/static_t/User3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/static_t/User3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/system_t/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/system_t/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/this_t/TestThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/this_t/TestThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_callable/Call.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_callable/Call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_callable/Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_callable/Race.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/Programmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/ProgrammerApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/ProgrammerApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/Web12306.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_runnable/Web12306.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_thread/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_thread/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_thread/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/extends_thread/Rabbit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/static_proxy/WeddingCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/static_proxy/WeddingCompany.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primer/thread_t/static_proxy/You.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primer/thread_t/static_proxy/You.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,40 +107,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/Call.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testNG.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="126">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/frame/testng/TestParallel1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sdk/tttt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding>
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1150#1151#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1213#1214#0" expanded="true" />
-                <element signature="e#1240#1241#0" expanded="true" />
-                <element signature="e#1281#1282#0" expanded="true" />
-                <element signature="e#1313#1314#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1405#1406#0" expanded="true" />
-                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/TestCallable.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="1548">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/APP/apache-maven-3.6.0/conf/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2844">
+              <caret line="158" column="8" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/primer/xiaobing/Test01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,11 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/primer/arrays/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primer/date_t/TestDate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primer/date_t/TestSimpleFormate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primer/date_t/TestCalendar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primer/file_t/TestFIle.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/file_t/TestFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/file_t/FileTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/collection_t/AddingGroups.java" />
@@ -142,7 +237,6 @@
         <option value="$PROJECT_DIR$/src/main/java/primer/collection_t/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/IO_t/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/IO_t/SysConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/frame/testng/TestParallel.java" />
         <option value="$PROJECT_DIR$/src/main/java/frame/testng/TestParallel2.java" />
         <option value="$PROJECT_DIR$/src/main/java/frame/testng/TestParallel3.java" />
@@ -159,12 +253,18 @@
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/TestThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_thread/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/Programmer.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/ProgrammerApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/Web12306.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/TestCallable.java" />
         <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/Call.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primer/thread_t/thread_lifecycle/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primer/xiaobing/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sdk/GeneralBasicOCR.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/sdk/tttt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java" />
       </list>
     </option>
   </component>
@@ -199,12 +299,14 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="218" />
-    <option name="y" value="57" />
-    <option name="width" value="1564" />
-    <option name="height" value="919" />
+    <option name="x" value="26" />
+    <option name="y" value="130" />
+    <option name="width" value="1565" />
+    <option name="height" value="920" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -243,14 +345,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chenfeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="primer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,7 +354,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="primer" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_t" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime_t" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="base" type="b2602c69:ProjectViewProjectNode" />
@@ -268,20 +362,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="primer" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_t" type="462c0819:PsiDirectoryNode" />
-              <item name="extends_callable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="primer" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_t" type="462c0819:PsiDirectoryNode" />
-              <item name="extends_callable" type="462c0819:PsiDirectoryNode" />
-              <item name="Call.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="base" type="b2602c69:ProjectViewProjectNode" />
@@ -299,7 +380,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567006109337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567339376053" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -329,13 +410,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Call">
-    <configuration name="Call" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primer.thread_t.extends_callable.Call" />
+  <component name="RunManager" selected="Application.TestRunTIme">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer.thread_t.thread_lifecycle.Demo01" />
       <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primer.thread_t.extends_callable.*" />
+          <option name="PATTERN" value="primer.thread_t.thread_lifecycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,12 +437,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primer.thread_t.static_proxy.StaticProxy" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer.xiaobing.Test01" />
       <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primer.thread_t.static_proxy.*" />
+          <option name="PATTERN" value="primer.xiaobing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,12 +450,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primer.thread_t.extends_callable.TestCallable" />
+    <configuration name="TestRunTIme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primer.runtime_t.TestRunTIme" />
       <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primer.thread_t.extends_callable.*" />
+          <option name="PATTERN" value="primer.runtime_t.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Web12306" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primer.thread_t.extends_runnable.Web12306" />
+    <configuration name="tttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdk.tttt" />
       <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primer.thread_t.extends_runnable.*" />
+          <option name="PATTERN" value="sdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,11 +478,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Call" />
-        <item itemvalue="Application.TestCallable" />
-        <item itemvalue="Application.Web12306" />
+        <item itemvalue="Application.TestRunTIme" />
+        <item itemvalue="Application.tttt" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Demo01" />
         <item itemvalue="Application.ProgrammerApp" />
-        <item itemvalue="Application.StaticProxy" />
       </list>
     </recent_temporary>
   </component>
@@ -456,8 +537,24 @@
       <workItem from="1566824764007" duration="1298000" />
       <workItem from="1566829998655" duration="1058000" />
       <workItem from="1566917818455" duration="7138000" />
-      <workItem from="1566967876723" duration="6478000" />
+      <workItem from="1566967876723" duration="8274000" />
+      <workItem from="1567067848607" duration="7922000" />
+      <workItem from="1567090021076" duration="327000" />
+      <workItem from="1567098859395" duration="213000" />
+      <workItem from="1567101682861" duration="328000" />
+      <workItem from="1567102402052" duration="35000" />
+      <workItem from="1567127831646" duration="53000" />
+      <workItem from="1567176999287" duration="30000" />
+      <workItem from="1567334178958" duration="2445000" />
     </task>
+    <task id="LOCAL-00001" summary="多线程的三种方式了解">
+      <created>1567006164627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567006164627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -493,13 +590,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106480000" />
+    <option name="totallyTimeSpent" value="119629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48656294" visible="true" weight="0.23989218" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48656294" visible="true" weight="0.2264151" />
       <window_info id="Structure" order="1" sideWeight="0.51343703" side_tool="true" weight="0.23726542" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,17 +604,17 @@
       <window_info id="Favorites" order="6" sideWeight="0.50214595" side_tool="true" weight="0.25303152" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32890856" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3090379" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4579901" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3265306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49562684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32944608" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.31666666" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31632653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,101 +630,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="多线程的三种方式了解" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程的三种方式了解" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/collection_t/MyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/collection_t/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/collection_t/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/collection_t/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/collection_t/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/jxl/TestJxl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/jxl/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/primer/jxl/Testsubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -694,13 +704,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -775,14 +778,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/preporties_t/TestProperties.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/proporties_t/TestProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
@@ -865,45 +861,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/Programmer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/ProgrammerApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/Web12306.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="27" column="30" selection-start-line="25" selection-start-column="8" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/frame/testng/TestParallel1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="45" selection-start-line="10" selection-start-column="14" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testNG.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -921,13 +882,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenfeng/Call/Call.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chenfeng/Call/Call.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/Future.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
@@ -942,20 +897,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/TestCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/Call.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="191">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="e#729#730#0" expanded="true" />
             <element signature="e#761#762#0" expanded="true" />
@@ -976,6 +921,134 @@
             <element signature="e#1405#1406#0" expanded="true" />
             <element signature="e#1437#1438#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_callable/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/static_proxy/StaticProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding>
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/thread_lifecycle/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/thread_t/extends_runnable/ProgrammerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/qcloud/qcloud-java-sdk/2.0.6/qcloud-java-sdk-2.0.6.jar!/com/qcloud/Utilities/Json/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/qcloud/qcloud-java-sdk/2.0.6/qcloud-java-sdk-2.0.6.jar!/com/qcloud/Common/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1098">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sdk/GeneralBasicOCR.java" />
+    <entry file="file://$PROJECT_DIR$/testNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frame/testng/TestParallel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sdk/tttt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/APP/apache-maven-3.6.0/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="158" column="8" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/xiaobing/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/primer/runtime_t/TestRunTIme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>

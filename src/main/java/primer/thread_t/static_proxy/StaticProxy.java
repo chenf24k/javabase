@@ -28,7 +28,7 @@ interface Marry {
     public abstract void marry();
 }
 
-// 代理角色
+// 真实角色
 class You implements Marry {
     @Override
     public void marry() {
