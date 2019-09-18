@@ -1,20 +1,21 @@
-package com.chenfeng.reflection.bean;
+package advanced.reflection.bean;
 
 /**
- * @author 陈枫 on 2019-05-11.
+ * @author 陈枫 on 2019-09-14.
  */
 public class User {
     private int id;
     private int age;
     private String uname;
 
-    public User() {
-    }
 
     public User(int id, int age, String uname) {
         this.id = id;
         this.age = age;
         this.uname = uname;
+    }
+
+    public User() {
     }
 
     public int getId() {

@@ -1,0 +1,50 @@
+Annotation   JDK5.0开始引入的新技术
+1.作用：
+-不是程序本身，可以对程序作出解释，同注释
+-可以被其它程序（如编译器）读取
+2.格式：
+“@注释名”
+@SuppressWarnings(value="unchecked").
+·注解可以用在哪里
+-可以附加在package、class、method、field、等上面，相当于给潭门添加了额外的辅助信息，
+我们可以通过反射机制编程实现对元数据的访问
+
+
+内置注解
+@Override    相当于注释，表示一个方法声明打算重写超类中的另一个方法声明
+
+@Deprecated  废弃不推荐
+    @Deprecated
+    public Date(int year, int month, int date) {
+        this(year, month, date, 0, 0, 0);
+    }
+
+@SuppressWarnings   同来抑制编译时的警告信息
+    @SuppressWarnings(value = {"unchecked","deprecation"})
+    @SuppressWarnings("all")
+    该注解需要添加参数，常用参数如下：
+    1.deprecation   使用了过时的类或方法的警告
+    2.unchecked     执行了未检查的转换时的警告
+    3.fallthrough   当switch语句使用时发生case穿透
+    4.path          当类路径、源文件路径等中有不存在的路径的警告
+    5.serial        当在可序列化的类上缺少serialVersionUID定义时的警告
+    6.finally       任何finally字句不能完成时的情况
+    7.all           关于以上所有情况的警告
+
+元注解
+对注解进行进一步解释
+@Target
+    用于描述注解的使用范围，即描述的注解可以使用在什么地方
+    所修饰范围                             取值ElementType
+    package                               PACKAGE
+    类、接口、枚举、Annotation类型           TYPE
+    类型成员（方法、构造方法、成员变量、枚举值） CONSTRUCTOR用于描述构造器、FIELD用于描述域、PARAMETER用于描述参数
+    方法参数和本地变量                       LOCAL_VARIABLE用于描述局部变量、PARAMETER用于描述参数
+@Retention
+    表示需要在什么级别保存该注释信息，用于描述注解的声明周期
+    取值                      作用
+    SOURCE                  在源文件中有效（即源文件保留）
+    CLASS                   在CLASS文件中有效(即class保留）
+    RUNTIME                 在运行时保留，为Runtime可以被反射机制读取
+@Documented
+@Inherited
