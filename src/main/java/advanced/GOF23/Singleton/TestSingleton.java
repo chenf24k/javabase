@@ -1,4 +1,4 @@
-package advanced.GOF23;
+package advanced.GOF23.Singleton;
 
 import org.testng.annotations.Test;
 

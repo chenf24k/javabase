@@ -1,4 +1,4 @@
-package advanced.GOF23;
+package advanced.GOF23.Singleton;
 
 /**
  * 单例模式 -懒汉式
